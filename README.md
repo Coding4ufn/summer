@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/madebyconnor/summer.svg?branch=master)](https://travis-ci.org/madebyconnor/summer) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5869a9200876413f8d8e51b37e0dcfa5)](https://www.codacy.com/app/connor_baer/physalis?utm_source=github.com&utm_medium=referral&utm_content=madebyconnor/summer&utm_campaign=Badge_Grade)
 
+
+
 # The README Checklist
 
 A handy checklist for an efficient README:
